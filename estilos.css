@@ -1,0 +1,105 @@
+body
+{
+  background-color: #79B4EC;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+header
+{
+  margin: 0;
+  text-align: right;
+  background-image:url();
+
+}
+
+li
+{
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 8px solid #518CC4;
+  border-radius:10px;
+  font-weight: bold;
+  font-style:italic;
+  font-size: 20px;
+  background-color:#518CC4;
+  color: white;
+}
+
+nav
+{
+  border: 1px solid black;
+  background-color: #012D54;
+  text-align: center;
+
+}
+
+.nombreTitulo
+{
+  text-align: center;
+  margin:auto;
+  font-size: 28px;
+  color: white;
+}
+.contacto
+{
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 8px solid #518CC4;
+  font-size: 20px;
+  background-color:#518CC4;
+  color: white;
+}
+strong
+{
+  color: white;
+  font-size: 23px;
+
+}
+
+div
+{
+  display: inline-block;
+}
+
+
+ul
+{
+  margin: auto;
+  padding: inherit;
+}
+aside
+{
+
+  float: left;
+  margin-top: 20px;
+  width: 210px;
+  height: 600px;
+  text-align: center;
+  margin-top: 0;
+  background-color: #518CC4;
+
+
+}
+
+figure
+{
+  padding-top: 10px;
+  margin: auto;
+  /*border: 1px solid black;*/
+  width: 210px;
+  height: 167px;
+  background-color: #012D54;
+
+}
+
+img
+{
+  border: 4px solid #518CC4;
+  border-radius: 40px;
+}
